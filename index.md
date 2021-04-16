@@ -13,22 +13,29 @@ Software Engineer
 
 
 ## Currently
-I'm a Senior Software Engineer at [Q-Beyond](https://www.qbeyond.de/), based in Cologne, GE. I'm working on embedded systems projects with BLE and 2G.
-
+I'm a Senior Software Engineer at [Q-Beyond](https://www.qbeyond.de/), based in Cologne, GE. I'm working on embedded systems projects with BLE, 2G and Embedded Linux.
 
 ## Employment
 
 `2020-` 
-__Qbeyond AG__ Senior Software Engineer 
+__Qbeyond AG__ Senior Software Engineer  
+__Tools__: Git, CI/CD, Docker, Embeded Linux, Python, C, Test-Driven Development. 
 
 `2018-2019`
-__IDiaL Institute (Dortmund, DE)__ Maintainer of the rover-app repository related to [Eclipse Kuksa project](https://github.com/app4mc-rover/rover-app). Development was done in C++, python, Automotive Grade Linux (AGL), Raspbian, OpenCV
+__IDiaL Institute (Dortmund, DE)__ Maintainer of the rover-app repository related to [Eclipse Kuksa project](https://github.com/app4mc-rover/rover-app).  
+__Topics__: Machine Learning, Computer Vision, Embedded Linux.  
+Development was done in C++, python, Automotive Grade Linux (AGL), Raspbian, OpenCV. 
 
 `2015-2017`
-__Wolfram__ Research Developer. Development of algorithms for "Wolfram Mathematica" and "Wolfram Alpha" project developer. 
+__Wolfram__ Research Developer.  
+Development of algorithms for "Wolfram Mathematica" and "Wolfram Alpha" project developer.  
+Development was done in C++.
 
 `2013` 
-__Embedded Electronic Systems Research (Rouen, FR)__ Intern. Development of inpainting algorithm to remove occlusions on catadioptric images based on Markov Random Fields. Development in MATLAB and C.
+__Embedded Electronic Systems Research (Rouen, FR)__ Intern.  
+Development of a computer vision algorithm to remove occlusions on images and videos from omnidirectional cameras.  
+__Topics__: Machine Learning, Computer Vision, Embedded Systimes.   
+Development was done MATLAB, C and Assembler (SIMD).
 
 
 ## Education
@@ -94,7 +101,7 @@ Daniel Paredes, Paul Rodriguez, "Multi-scale Image Inpainting with Label Selecti
 
 ## Languages
 
-* Spanish
+* Spanish 
 * English
 * German
 
@@ -102,13 +109,9 @@ Daniel Paredes, Paul Rodriguez, "Multi-scale Image Inpainting with Label Selecti
 
 <!-- fa are fontawesome, ai are academicons -->
 * <i class="fa fa-envelope"></i> <a href="mailto:daleonpz@gmail.com">daleonpz@gmail.com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/daleonpz">daleonpz</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/daleonpz">Github</a><br />
 * <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/daniel-paredes-2522b91a7/">LinkedIn</a>
 
 ## References
 
 Available on request.
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
